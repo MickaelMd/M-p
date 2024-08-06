@@ -200,6 +200,16 @@ nav a:hover {
   font-size: 18px;
 }
 
+#backgrounddot {
+  position: fixed;
+  z-index: -1000;
+  top: 0;
+  margin: 0 auto;
+  width: 2500px;
+  opacity: 60%;
+  margin-left: -500px;
+}
+
 /* ------------ */
 
 #page {
