@@ -110,6 +110,7 @@ nav a:hover {
 }
 #table_contents h2 {
   margin: 0 auto;
+  margin-bottom: 20px;
 }
 #table_contents ul {
   display: flex;
@@ -280,15 +281,7 @@ nav a:hover {
   margin-top: 20px;
 }
 
-#introduction h1,
-#getting_started h1,
-#shipwrecks h1,
-#villages h1,
-#ruined_portal h1,
-#buried_treasure h1,
-#structureless h1,
-#other_structures h1,
-#building_a_nether_portal h1 {
+#page h1 {
   font-size: 40pt;
   margin-bottom: 10px;
 }
