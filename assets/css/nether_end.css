@@ -19,3 +19,17 @@
   padding: 20px;
   margin-top: 20px;
 }
+
+#start_span_nether {
+  color: red;
+}
+
+#start_spanfortresses {
+  color: rgb(107, 16, 0);
+}
+#start_blaze_rods {
+  color: rgb(153, 153, 0);
+}
+#start_end {
+  color: rgb(121, 0, 121);
+}
