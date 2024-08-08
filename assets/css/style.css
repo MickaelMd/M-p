@@ -330,6 +330,55 @@ nav a:hover {
 }
 /* ------------ */
 
+footer {
+  background-color: rgba(255, 255, 255, 0.192);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.scrollToTopBtn {
+  border: none;
+  width: 100px;
+  height: 50px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 10px;
+  background-color: #bebebe;
+  margin-bottom: 10px;
+}
+
+.scrollToTopBtn:hover {
+  background-color: #33333371;
+  transition: 50ms;
+}
+
+#footer_plan ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#footer_plan li {
+  padding: 10px;
+}
+
+#footer_plan a,
+#footer_plan ul,
+footer a {
+  text-decoration: none;
+  list-style: none;
+  color: black;
+  padding: 2px 5px 2px 5px;
+  font-style: italic;
+}
+#footer_plan a:hover {
+  text-decoration: underline;
+}
+/* ------------ */
+
 @media (max-width: 1771px) {
   #logoimg_table img {
     width: 200px;
@@ -459,8 +508,12 @@ nav a:hover {
     padding: 10px 100px 10px 100px;
     font-size: 20px;
   }
+
   #page img {
     width: 350px;
+  }
+  #navigation_footer img {
+    width: 30px;
   }
 }
 
