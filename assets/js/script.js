@@ -9,7 +9,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // -------------------
 
-// document.addEventListener("scroll", handleScroll);
 const scrollToTopBtn = document.querySelector(".scrollToTopBtn");
 scrollToTopBtn.addEventListener("click", scrollToTop);
 function scrollToTop() {

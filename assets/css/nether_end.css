@@ -2,7 +2,9 @@
 #classic_bartering img,
 #bastion_strats img,
 #nether_fortresses img,
-#exiting_nether img {
+#exiting_nether img,
+#Ender_Dragon_Figh img,
+#other_information img {
   max-width: 700px;
   margin-top: 20px;
 }
@@ -15,7 +17,9 @@
 #classic_bartering,
 #bastion_strats,
 #nether_fortresses,
-#exiting_nether {
+#exiting_nether,
+#Ender_Dragon_Figh,
+#other_information {
   padding: 20px;
   margin-top: 20px;
 }
@@ -32,4 +36,16 @@
 }
 #start_end {
   color: rgb(121, 0, 121);
+}
+.claudelecon {
+  display: none;
+}
+
+#p_fight {
+  margin: 0;
+}
+
+#link_speedruncom {
+  text-decoration: none;
+  color: green;
 }
