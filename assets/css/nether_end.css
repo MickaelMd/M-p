@@ -19,7 +19,8 @@
 #nether_fortresses,
 #exiting_nether,
 #Ender_Dragon_Figh,
-#other_information {
+#other_information,
+#world_record {
   padding: 20px;
   margin-top: 20px;
 }
@@ -48,4 +49,8 @@
 #link_speedruncom {
   text-decoration: none;
   color: green;
+}
+#drip_link {
+  text-decoration: none;
+  color: purple;
 }
