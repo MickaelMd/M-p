@@ -54,3 +54,22 @@
   text-decoration: none;
   color: purple;
 }
+
+#reddit_link {
+  text-decoration: none;
+  color: orange;
+}
+#wikibooks_link {
+  text-decoration: none;
+}
+
+#reddit_link:hover,
+#drip_link:hover,
+#link_speedruncom:hover,
+#wikibooks_link:hover {
+  text-decoration: underline;
+}
+
+#b_strat_span {
+  font-style: italic;
+}
