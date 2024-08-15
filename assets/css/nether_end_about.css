@@ -57,10 +57,11 @@
 
 #reddit_link {
   text-decoration: none;
-  color: orange;
+  color: rgb(170, 111, 0);
 }
 #wikibooks_link {
   text-decoration: none;
+  color: rgb(0, 81, 255);
 }
 
 #reddit_link:hover,
